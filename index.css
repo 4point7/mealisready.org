@@ -17,16 +17,16 @@ body {    position: absolute;
     padding-top:0;
 }
 
-#header_banner {
+#header-banner {
 background: rgba(255,255,255,1);
 height: 80px;
 }
 
-#header_banner img {
+#header-banner img {
   height: 100%;
 }
 
-#call_to_action_container {
+#call-to-action-container {
 
   color:white;
   background: rgba(0,0,0,0.35);
